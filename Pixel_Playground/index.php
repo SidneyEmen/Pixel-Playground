@@ -15,7 +15,7 @@
 <body>
     <?php include 'header.php'; ?>
 
-
+    <h1>HOI</h1>
     
     <?php include 'footer.php'; ?>
 </body>
