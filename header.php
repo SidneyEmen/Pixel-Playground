@@ -7,19 +7,10 @@
     <meata name="description" content="Een korte beschrijving...">
     <meta name="keywords" content="HTML, meta tags, voorbeeld, webontwikkeling">
     <meta name="author" content="Farich & Sidney">
-    <title>HomePage</title>
+    <title>Header</title>
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="css/pixel.css">
     <script src="js/pixel.js" defer></script>
 </head>
 <body>
-    <?php include 'header.php'; ?> 
     
-    <article>
-        <h1>Hello</h1>
-    </article>
-
-    
-    <?php include 'footer.php'; ?>
-</body>
-</html>
