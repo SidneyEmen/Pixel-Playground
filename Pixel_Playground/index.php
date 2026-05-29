@@ -11,12 +11,17 @@
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="css/pixel.css">
     <script src="js/pixel.js" defer></script>
-    <?php include 'header.php'; ?>
 </head>
 <body>
+    <?php include 'header.php'; ?>
+
+
     
-</body>
-<footer>
     <?php include 'footer.php'; ?>
+<<<<<<< HEAD
 </footer>
 </html>
+=======
+</body>
+</html>
+>>>>>>> 6b04b4cd481a30e73fe3a5d5ab7ed76ad8382a2c
