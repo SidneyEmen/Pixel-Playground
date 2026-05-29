@@ -18,10 +18,5 @@
     <h1>HOI</h1>
     
     <?php include 'footer.php'; ?>
-<<<<<<< HEAD
-</footer>
-</html>
-=======
 </body>
 </html>
->>>>>>> 6b04b4cd481a30e73fe3a5d5ab7ed76ad8382a2c
