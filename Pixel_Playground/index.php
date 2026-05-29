@@ -13,9 +13,11 @@
     <script src="js/pixel.js" defer></script>
 </head>
 <body>
-    <?php include 'header.php'; ?>
-    <h1>Welkom op pixel playground</h1>
-
+    <?php include 'header.php'; ?> 
+    
+    <article>
+        <h1>Hello</h1>
+    </article>
 
     
     <?php include 'footer.php'; ?>
