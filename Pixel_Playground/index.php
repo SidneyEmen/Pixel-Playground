@@ -14,6 +14,7 @@
 </head>
 <body>
     <?php include 'header.php'; ?>
+    <h1>Welkom op pixel playground</h1>
 
 
     
